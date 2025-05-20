@@ -1,4 +1,4 @@
-# blinq-coupons
+# Blinq Coupon Codes, Discount Deals & Offers in 2025
 
 Blinq is a tool that helps you create and share digital business cards instead of paper ones. It makes sharing your contact details quick and easy using QR codes or phone taps. This is helpful for anyone who meets new people often, like salespeople, freelancers, or business owners.
 
