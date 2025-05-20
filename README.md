@@ -48,6 +48,10 @@ Blinq offers a range of powerful features designed to enhance your networking ex
 
 **1. Custom Digital Cards**
 
+<a href="https://afftrend.com/blinq">
+  <img src="https://drive.google.com/uc?export=view&id=1SFYGnhgpA_JcY0iYdnPjhyihScKFOG8a" width="800px" alt="">
+</a>
+
 With Blinq, you can make a business card that looks just the way you want. Add your photo, your company logo, phone number, email, website, and even your social media links like LinkedIn or Instagram. This lets you show your personality and brand in one place, making a great first impression without printing anything.
 
 **2. Easy Sharing**
@@ -65,6 +69,10 @@ This means you can quickly share your details anytime, anywhere, without fumblin
 When someone scans your Blinq card, their contact info can be saved automatically to your account. You won’t have to type their details manually or worry about losing their info. This keeps your contact list organized and updated, making follow-ups much easier.
 
 **4. Works with Other Apps**
+
+<a href="https://afftrend.com/blinq">
+  <img src="https://drive.google.com/uc?export=view&id=1Wchwns3khaPNPeQg36wPJbhF9CSC93HK" width="800px" alt="">
+</a>
 
 Blinq connects with popular business tools like Salesforce and HubSpot. These connections help you sync your contacts so you can keep everything in one place. For example, if you add a new contact in Blinq, it can show up automatically in your CRM system without extra work.
 
